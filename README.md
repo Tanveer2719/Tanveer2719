@@ -14,7 +14,7 @@ Let's learn together with a happy heart.
 
 ## Languages
 
-<center>This text</center>
+<p align="center">This text<p>
 
 
 
