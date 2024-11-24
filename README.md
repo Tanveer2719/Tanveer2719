@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Tanveer2719/Tanveer2719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tanveer Rahman 👋
 
-Here are some ideas to get you started:
+I am currently a final semester undergraduate student at Department of CSE in [Bangladesh University of Engineering and Technology(BUET)](https://cse.buet.ac.bd/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Working on couple of Research Project covering Deep Learning and Graph Algorithms. 
+- 🌱  Currently learning about various libraries used in Machine Learning and Deep Learning. 
+- ⛹️‍♀️ Open to any discussion about Machine Learning and Graph Algorithms. 
+- 📫 Reach me at : tanveerrahman2719@gmail.com
+
+Let's learn together with a happy heart. 
+
+## Languages
+
+<center>This text</center>
+
+
+
+
